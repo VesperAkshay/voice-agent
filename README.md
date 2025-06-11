@@ -6,7 +6,7 @@ A voice-enabled grievance resolution system that helps citizens register and tra
 
 Watch the full walkthrough of our AI-powered citizen grievance redressal system:
 
-[![WhatsApp Image 2025-06-11 at 15 38 02_06bb7a2b](https://github.com/user-attachments/assets/4f910cfb-fe26-4e1b-9d38-f5fb938b6325)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![WhatsApp Image 2025-06-11 at 15 38 02_06bb7a2b](https://github.com/user-attachments/assets/4f910cfb-fe26-4e1b-9d38-f5fb938b6325)](https://youtu.be/nUc3XW_ibbs?feature=shared)
 
 
 
