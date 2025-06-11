@@ -217,10 +217,3 @@ We welcome contributions! Please follow these steps:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Support
-
-For support or to report issues, please contact:
-- Email: support@grievance-resolver.gov.in
-- Helpline: 1800-XXX-XXXX (Toll-free)
-- Visit your nearest Common Service Center (CSC)
