@@ -2,6 +2,16 @@
 
 A voice-enabled grievance resolution system that helps citizens register and track their complaints with government services. This application provides multi-language support and integrates with government grievance portals to streamline the complaint resolution process.
 
+#### 🎥 Demo: Working Prototype in Action
+
+Watch the full walkthrough of our AI-powered citizen grievance redressal system:
+
+[![WhatsApp Image 2025-06-11 at 15 38 02_06bb7a2b](https://github.com/user-attachments/assets/4f910cfb-fe26-4e1b-9d38-f5fb938b6325)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+
+
+
+
 ## Features
 
 - **Multi-language Support**: Interact in English, Hindi, and other regional languages
